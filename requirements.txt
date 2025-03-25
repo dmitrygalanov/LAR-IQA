@@ -8,3 +8,6 @@ scipy
 numpy
 wandb
 git+https://github.com/Blealtan/efficient-kan.git
+fastapi
+uvicorn
+python-multipart
